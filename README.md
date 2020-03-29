@@ -11,6 +11,7 @@
 3. type this and enter to run the script 
     "python3 Py3_sec2020_whatsapp_spammer_V_1.0.py"
 4. The rest of the process can be understood easily as you continue
+--For more information about how to use it ,download the file https://drive.google.com/open?id=1muZ_fwj7TrqyhZEcB2tnSN0nfwvd_1NR-
 ---------------------------------------------------------------
 ## Requirements
 1. Python 3.x.x
