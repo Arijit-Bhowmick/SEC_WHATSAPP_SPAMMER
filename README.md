@@ -3,11 +3,11 @@
 ## -------------------------------------------------------
 ## A Powerful Whatsapp spammer coded with Python3
     Download from https://github.com/Arijit-Bhowmick/PY3_SEC2020_WHATSAPP_SPAMMER
-![PY3_SEC2020_WHATSAPP_SPAMMER]()
+![PY3_SEC2020_WHATSAPP_SPAMMER](https://github.com/Arijit-Bhowmick/PY3_SEC2020_WHATSAPP_SPAMMER/blob/master/Pictures/PY3_SEC2020_WHATSAPP_SPAMMER.png)
 
 ## HOW TO USE
 1. Open Terminal/cmd
-2. go to the location wherer the file is located
+2. go to the location where the file is located
 3. type this and enter to run the script 
     "python3 Py3_sec2020_whatsapp_spammer_V_1.0.py"
 4. The rest of the process can be understood easily as you continue
