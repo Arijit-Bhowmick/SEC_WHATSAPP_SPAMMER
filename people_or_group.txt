@@ -1,0 +1,4 @@
+user1
+User2
+Group1
+GROUP_*2
