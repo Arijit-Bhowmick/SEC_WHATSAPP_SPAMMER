@@ -25,7 +25,7 @@
 New methods are added in Py3_sec2020_whatsapp_spammer_V_1.1.2.py
 1. You can now spam a huge number of people/group
 2. name of the people of groups can be entered one by one to create a list, or a file can be
-    imported having the name of the people/group
+    imported having the name of the people/group //An example is provided as 'people_or_group.txt'
 3. SHA512 hash is used to send random hashes
 4. driver location can be mentioned during the running of the script
 5. userfriendly
